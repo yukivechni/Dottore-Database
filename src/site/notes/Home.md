@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
 ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ ·
+![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
 ### Добро пожаловать в базу данных по Иль Дотторе!
 ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ ·
 
