@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
 ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ · ✦ · ✧ ·
 
 ![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
