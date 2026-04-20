@@ -27,9 +27,9 @@
 
 
 <div style="text-align: margin: 30px 0;">
- ✧ ────── ⋆⋅☆⋅⋆ ────── ✧</div>
- <div style="text-align: margin: 30px 0;">✦ 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ✦</div>
+ ────── ⋆⋅☆⋅⋆ ────── </div>
+ <div style="text-align: margin: 30px 0;"> 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 </div>
  <div style="text-align: margin: 30px 0;">┊ @анестетик</div>
 <div style="text-align: margin: 30px 0;"> ┊ @Heiyan_xwx</div>
-<div style="text-align: margin: 30px 0;">✧ ────── ⋆⋅☆⋅⋆ ────── ✧
+<div style="text-align: margin: 30px 0;">────── ⋆⋅☆⋅⋆ ──────
 </div>
