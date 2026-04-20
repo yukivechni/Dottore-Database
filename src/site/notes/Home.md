@@ -5,7 +5,7 @@
 ### Добро пожаловать в базу данных по Иль Дотторе!
 
 ![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
-
+![IMG_1756.jpeg](/img/user/IMG_1756.jpeg)
 *==Маньхуа==*:
 > [!Маньхуа]-
 > [[Маньхуа/Том 1 Глава 1 - Плохое Вино\|Том 1 Глава 1 - Плохое Вино]]
@@ -23,13 +23,6 @@
 
 
 
- 
 
 
-<div style="text-align: margin: 30px 0;">
- ────── ⋆⋅+⋅⋆ ────── </div>
- <div style="text-align: margin: 30px 0;"> 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 </div>
- <div style="text-align: margin: 30px 0;"> | @анестетик</div>
-<div style="text-align: margin: 30px 0;"> | @Heiyan_xwx</div>
-<div style="text-align: margin: 30px 0;">────── ⋆⋅+⋅⋆ ──────
-</div>
+![IMG_1755 1.jpeg](/img/user/IMG_1755%201.jpeg)
