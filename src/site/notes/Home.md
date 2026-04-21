@@ -6,7 +6,7 @@
 
 ![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
 ![IMG_1758.png](/img/user/IMG_1758.png)
-<span style="color: #ddf6ef; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Маньхуа</span>
+<span style="background-color: #ddf6ef; color: #678eee; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Маньхуа</span>
 > [!Маньхуа]-
 > [[Маньхуа/Том 1 Глава 1 - Плохое Вино\|Том 1 Глава 1 - Плохое Вино]]
 > 
@@ -24,7 +24,7 @@
 > 
 > [[Маньхуа/Том 1 Глава 16 - Льющееся вино\|Том 1 Глава 16 - Льющееся вино]]
 
-<span style="color: #ddf6ef; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Упоминания в сюжете</span>
+<span style="background-color: #ddf6ef; color: #678eee; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Упоминания в сюжете</span>
 > [!Упоминания в сюжете]- 
 > [[Упоминания в сюжете/Упоминание в задании легенд Тартальи (На страже детских фантазий - Приключение могучего Одноглазика!; Небесный Кит. Глава I)\|Упоминание в задании легенд Тартальи (На страже детских фантазий - Приключение могучего Одноглазика!; Небесный Кит. Глава I)]]
 > 
