@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-### Добро пожаловать в базу данных по <span style="color: #678eee; font-weight: bold;">Иль Дотторе</span>!
+### Добро пожаловать в базу данных по <span style="color: #ddf6ef; font-weight: bold;">Иль Дотторе</span>!
 
 ![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
 ![IMG_1758.png](/img/user/IMG_1758.png)
