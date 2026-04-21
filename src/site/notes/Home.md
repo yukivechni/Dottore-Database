@@ -6,7 +6,7 @@
 
 ![IMG_1554.jpeg](/img/user/IMG_1554.jpeg)
 ![IMG_1758.png](/img/user/IMG_1758.png)
-*==Маньхуа==*:
+<span style="background-color: #dbeafe; color: #1e40af; padding: 2px 6px; border-radius: 4px; font-weight: bold;">Маньхуа</span>
 > [!Маньхуа]-
 > [[Маньхуа/Том 1 Глава 1 - Плохое Вино\|Том 1 Глава 1 - Плохое Вино]]
 > 
